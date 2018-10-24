@@ -2,25 +2,13 @@
 	padding-bottom: 60px;
 }
 
-#index-body{
-	background-image: url("../images/background.png");
-	background-size: 135%;
-	background-repeat: no-repeat;
-	background-position: center;
-}
-
-html{
-	height: auto;
-}
-
-
 header {
 	padding-top: 30px;
 }
 
 /* CSS FOR FULL PAGE BACKGROUND (EVEN WHEN WINDOW SIZE CHANGES) */
 #index-body{ 
-	background: url("https://static.pexels.com/photos/349609/pexels-photo-349609.jpeg") no-repeat center center fixed; 
+	background: url("../images/cooking.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
